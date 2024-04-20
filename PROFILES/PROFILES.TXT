@@ -1,7 +1,34 @@
-NAME OF STUDENTS:
-LEARNING TRACK:
-PROJECT NAME:
-TAILHEAD PROFILES:
-DEVELOPER ORG USERNAME:
-DEVELOPER ORG PASSWORD:
-POSITION:TEAM LEAD
+NAME OF STUDENT: v.sireesha
+LEARNING TRACK: salesforce admin/developer
+PROJECT NAME:A CRM APPLICATION FO LAPTOP RENTALS
+TAILHEAD PROFILES:https://www.salesforce.com/trailblazer/sireeshavudayagiri
+DEVELOPER ORG USERNAME: siri@gdcproject.com
+DEVELOPER ORG PASSWORD: sireesha@12345
+POSITION: K.NANDINI
+
+
+NAME OF STUDENT: K.NANDINI
+LEARNING TRACK: salesforce admin/developer
+PROJECT NAME:A CRM APPLICATION FO LAPTOP RENTALS
+TAILHEAD PROFILES: https://www.salesforce.com/trailblazer/nandinikumar6075
+DEVELOPER ORG USERNAME: nandinisalseforce2023@projectgdc.com
+DEVELOPER ORG PASSWORD: Gayatri@123
+POSITION: K.NANDINI
+
+
+NAME OF STUDENT: s.sangeetha
+LEARNING TRACK: salesforce admin/developer
+PROJECT NAME:A CRM APPLICATION FO LAPTOP RENTALS
+TAILHEAD PROFILES: https://www.salesforce.com/trailblazer/sangeethasuresh
+DEVELOPER ORG USERNAME:long termgdcproject@2024.com
+DEVELOPER ORG PASSWORD:Gayatri@123
+POSITION: K.NANDINI
+
+
+NAME OF STUDENT:V.R.Reddy bhavana
+LEARNING TRACK: salesforce admin/developer
+PROJECT NAME:A CRM APPLICATION FO LAPTOP RENTALS
+TAILHEAD PROFILES: https://www.salesforce.com/trailblazer/reddybhavanavr
+DEVELOPER ORG USERNAME: reddybhavanavr@longtermproject.com
+DEVELOPER ORG PASSWORD: Gayatri@123
+POSITION: K.NANDINI
